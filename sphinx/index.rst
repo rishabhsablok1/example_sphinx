@@ -6,12 +6,14 @@
 Welcome to Example sphinx's documentation!
 ==========================================
 
-Contents:
+This is a description of the website. Random example website.
+
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents
 
+   summary
    code
 
 
